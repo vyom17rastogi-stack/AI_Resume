@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# FastAPI / Uvicorn
+*.log
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cache
+.cache/
+.pytest_cache/
+mypy_cache/
+
+# Environment Variables
+.env
+.env.*
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Dedupe archive
+cleanup_duplicates/
