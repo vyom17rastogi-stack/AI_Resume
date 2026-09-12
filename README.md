@@ -102,6 +102,6 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ## Author
 
-**Shivam Dhasmana**  
+Vyom Rastogi 
 B.Tech CSE | IMS Engineering College  
 Passionate about AI, backend development, and building smart systems.
